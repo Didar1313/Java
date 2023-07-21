@@ -1,2 +1,2 @@
 # Java
-Basic some of java code
+Some of basic java code
